@@ -5,7 +5,7 @@ function Navbar() {
     <nav>
       <div className="wrapper">
         <div className="logo">
-          <a href="">RumahRafif.</a>
+          <a href="">Call-Zull</a>
         </div>
         <div className="menu">
           <ul>
